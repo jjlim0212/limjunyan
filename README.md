@@ -5,7 +5,7 @@ I am a fresh Software Engineering graduate with hands-on experience in web appli
 
 ## Software Projects
 
-- **[AI-Powered Journey Planning with Weather Analysis Integration (Laravel)](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[AI-Powered Journey Planning with Weather Analysis Integration (Laravel)](https://github.com/jylim0212/myjourneyplanner)**
 - **[Grocery App (React Native)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[XYZ Pharmacy Invoicing System (Java OOP Project)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
